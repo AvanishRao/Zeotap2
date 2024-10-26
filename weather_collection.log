@@ -1,0 +1,42 @@
+2024-10-26 14:03:19,864 - ERROR - Failed to fetch data for Bangalore: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=None
+2024-10-26 14:03:19,976 - ERROR - Failed to fetch data for Jabalpur: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Jabalpur&appid=None
+2024-10-26 14:03:20,085 - ERROR - Failed to fetch data for Noida: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Noida&appid=None
+2024-10-26 14:03:20,202 - ERROR - Failed to fetch data for Delhi: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=None
+2024-10-26 14:03:20,337 - ERROR - Failed to fetch data for Chennai: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=None
+2024-10-26 14:03:20,452 - ERROR - Failed to fetch data for Kolkata: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=None
+2024-10-26 14:03:20,588 - ERROR - Failed to fetch data for Hyderabad: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=None
+2024-10-26 14:03:20,588 - ERROR - No data was collected for any city
+2024-10-26 14:05:39,372 - INFO - Starting weather service
+2024-10-26 14:05:39,529 - ERROR - Failed to fetch data for Bangalore: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=None
+2024-10-26 14:05:39,665 - ERROR - Failed to fetch data for Jabalpur: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Jabalpur&appid=None
+2024-10-26 14:05:39,784 - ERROR - Failed to fetch data for Noida: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Noida&appid=None
+2024-10-26 14:05:39,888 - ERROR - Failed to fetch data for Delhi: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=None
+2024-10-26 14:05:40,003 - ERROR - Failed to fetch data for Chennai: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=None
+2024-10-26 14:05:40,110 - ERROR - Failed to fetch data for Kolkata: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=None
+2024-10-26 14:05:40,221 - ERROR - Failed to fetch data for Hyderabad: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=None
+2024-10-26 14:05:40,223 - ERROR - No data was collected for any city
+2024-10-26 14:05:40,225 - INFO - Data retrieval service started
+2024-10-26 14:05:40,226 - INFO - Running daily weather data processing
+2024-10-26 14:05:40,227 - ERROR - Error in daily processing: No objects to concatenate
+2024-10-26 14:05:40,228 - WARNING - Rescheduled processing for 1 hour from now due to error
+2024-10-26 14:05:40,229 - INFO - Daily processing scheduler started
+2024-10-26 14:05:40,229 - ERROR - Critical error in weather service: module 'signal' has no attribute 'pause'
+2024-10-26 14:05:40,230 - INFO - Shutdown signal received. Cleaning up...
+2024-10-26 14:05:40,231 - INFO - Weather service stopped
+2024-10-26 14:07:16,811 - INFO - Starting weather service
+2024-10-26 14:07:16,927 - ERROR - Failed to fetch data for Bangalore: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Bangalore&appid=None
+2024-10-26 14:07:17,057 - ERROR - Failed to fetch data for Jabalpur: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Jabalpur&appid=None
+2024-10-26 14:07:17,167 - ERROR - Failed to fetch data for Noida: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Noida&appid=None
+2024-10-26 14:07:17,296 - ERROR - Failed to fetch data for Delhi: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=None
+2024-10-26 14:07:17,417 - ERROR - Failed to fetch data for Chennai: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Chennai&appid=None
+2024-10-26 14:07:17,795 - ERROR - Failed to fetch data for Kolkata: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Kolkata&appid=None
+2024-10-26 14:07:17,901 - ERROR - Failed to fetch data for Hyderabad: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=None
+2024-10-26 14:07:17,902 - ERROR - No data was collected for any city
+2024-10-26 14:07:17,906 - INFO - Data retrieval service started
+2024-10-26 14:07:17,906 - INFO - Running daily weather data processing
+2024-10-26 14:07:17,908 - ERROR - Error in daily processing: No objects to concatenate
+2024-10-26 14:07:17,909 - WARNING - Rescheduled processing for 1 hour from now due to error
+2024-10-26 14:07:17,910 - INFO - Daily processing scheduler started
+2024-10-26 14:07:17,911 - ERROR - Critical error in weather service: module 'signal' has no attribute 'pause'
+2024-10-26 14:07:17,912 - INFO - Shutdown signal received. Cleaning up...
+2024-10-26 14:07:17,912 - INFO - Weather service stopped
